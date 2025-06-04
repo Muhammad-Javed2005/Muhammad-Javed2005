@@ -6,7 +6,8 @@
 - 🔭 I’m currently working on **Machine Learning Projects**
 - 🌱 I’m learning **Deep Learning, NLP, and Data Visualization**
 - 💬 Ask me about **Python, NumPy, Pandas, Matplotlib, Scikit-Learn, and TensorFlow**
-- 📫 Reach me at: **muhammad.javed@example.com**
+- 📫 Reach me at: **muhammadjaved.tech5@gmail.com
+**
 - ⚡ Fun fact: I love turning messy data into meaningful insights!
 
 ---
@@ -34,7 +35,8 @@
 ### 🌐 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /></a>
-  <a href="mailto:muhammad.javed@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
+  <a href="mailto:muhammadjaved.tech5@gmail.com
+"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
 </p>
 
 
