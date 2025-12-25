@@ -122,7 +122,6 @@ contribute to impactful, data-driven solutions across industries.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Javed2005&layout=compact&theme=tokyonight" />
 </p>
 
-<hr/>
 
 <h2>Contact</h2>
 
