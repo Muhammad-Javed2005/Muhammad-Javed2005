@@ -20,32 +20,39 @@
 
 ---
 
-## `whoami`
+## 👨‍💻 About Me
 
-```python
-class MuhammadJaved:
+<div align="center">
 
-    name        = "Muhammad Javed"
-    university  = "UBIT, University of Karachi"
-    semester    = "3rd Semester — Software Engineering"
-    training    = "Saylani IT Mass Training Program"
-    focus       = ["Artificial Intelligence", "Data Science",
-                   "Machine Learning", "Deep Learning", "NLP"]
-    location    = "Karachi, Pakistan 🇵🇰"
-    status      = "Open to Collaborate 🟢"
-    email       = "muhammadjaved.dh@gmail.com"
+| 🏷️ | Details |
+|:---:|:--------|
+| 👤 **Name** | Muhammad Javed |
+| 🎓 **University** | UBIT, University of Karachi |
+| 📚 **Semester** | 3rd Semester — Software Engineering |
+| 🏫 **Training** | Saylani IT Mass Training Program |
+| 🎯 **Specialization** | Artificial Intelligence & Data Science |
+| 📍 **Location** | Karachi, Pakistan 🇵🇰 |
+| 📧 **Email** | muhammadjaved.dh@gmail.com |
+| 🟢 **Status** | Open to Collaborate |
 
-    def passion(self):
-        return "Transforming raw data into intelligent solutions"
+</div>
 
-    def current_goals(self):
-        return [
-            "Exploring Large Language Models & Generative AI",
-            "Building end-to-end ML pipelines",
-            "Research in Computer Vision & NLP",
-            "Contributing to open-source AI projects",
-        ]
-```
+<br/>
+
+<div align="center">
+
+💡 *"Transforming raw data into intelligent solutions"*
+
+</div>
+
+<br/>
+
+### 🎯 Current Goals
+
+- 🤖 Exploring **Large Language Models** & Generative AI
+- 🔧 Building **end-to-end ML pipelines**
+- 🔬 Research in **Computer Vision** & NLP
+- 🌍 Contributing to **open-source AI** projects
 
 ---
 
@@ -184,25 +191,23 @@ class MuhammadJaved:
 
 ## 🗺️ Learning Roadmap
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  2024 — 2025  |  AI & Data Science Roadmap
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align="center">
 
-  [✅]  Machine Learning Fundamentals
-  [✅]  Deep Learning — ANN, CNN, RNN, DNN, GAN
-  [✅]  Natural Language Processing Basics
-  [✅]  Computer Vision with OpenCV
-  [🔄]  Large Language Models & Prompt Engineering
-  [🔄]  MLOps & Model Deployment (Flask / FastAPI)
-  [⏳]  Transformers & Attention Mechanisms
-  [⏳]  Reinforcement Learning
-  [⏳]  Cloud AI — AWS SageMaker / GCP Vertex AI
+| Status | Topic |
+|:------:|:------|
+| ✅ | Machine Learning Fundamentals |
+| ✅ | Deep Learning — ANN, CNN, RNN, DNN, GAN |
+| ✅ | Natural Language Processing Basics |
+| ✅ | Computer Vision with OpenCV |
+| 🔄 | Large Language Models & Prompt Engineering |
+| 🔄 | MLOps & Model Deployment — Flask / FastAPI |
+| ⏳ | Transformers & Attention Mechanisms |
+| ⏳ | Reinforcement Learning |
+| ⏳ | Cloud AI — AWS SageMaker / GCP Vertex AI |
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   ✅ Completed    🔄 In Progress    ⏳ Planned
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+**✅ Completed &nbsp;&nbsp; 🔄 In Progress &nbsp;&nbsp; ⏳ Planned**
+
+</div>
 
 ---
 
