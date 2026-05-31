@@ -65,15 +65,15 @@
   <table align="center" style="border: none;">
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/cplusplus/white" width="48" height="48" alt="C++" />
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
         <br>C++
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/openjdk/white" width="48" height="48" alt="Java" />
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
         <br>Java
       </td>
     </tr>
@@ -91,31 +91,31 @@
   <table align="center" style="border: none;">
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/numpy/white" width="48" height="48" alt="NumPy" />
+        <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
         <br>NumPy
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/pandas/white" width="48" height="48" alt="Pandas" />
+        <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
         <br>Pandas
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="Matplotlib" />
+        <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logoColor=white" height="30" alt="Matplotlib" />
         <br>Matplotlib
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="Seaborn" />
+        <img src="https://img.shields.io/badge/-Seaborn-4c72b0?style=flat&logoColor=white" height="30" alt="Seaborn" />
         <br>Seaborn
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/powerbi/white" width="48" height="48" alt="Power BI" />
+        <img src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" alt="Power BI" />
         <br>Power BI
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/microsoftexcel/white" width="48" height="48" alt="Excel" />
+        <img src="https://skillicons.dev/icons?i=excel" width="48" height="48" alt="Excel" />
         <br>Excel
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/mysql/white" width="48" height="48" alt="SQL" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
         <br>SQL
       </td>
     </tr>
@@ -133,37 +133,37 @@
   <table align="center" style="border: none;">
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/scikitlearn/white" width="48" height="48" alt="Scikit-Learn" />
+        <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" />
         <br>Scikit-Learn
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="Linear Regression" />
+        <img src="https://img.shields.io/badge/-Linear_Reg-38bdf8?style=flat&logoColor=white" height="30" alt="Linear Regression" />
         <br>Lin. Regression
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="Logistic Regression" />
+        <img src="https://img.shields.io/badge/-Logistic_Reg-38bdf8?style=flat&logoColor=white" height="30" alt="Logistic Regression" />
         <br>Log. Regression
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="KNN" />
+        <img src="https://img.shields.io/badge/-KNN-6366f1?style=flat&logoColor=white" height="30" alt="KNN" />
         <br>KNN
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="SVM" />
+        <img src="https://img.shields.io/badge/-SVM-8b5cf6?style=flat&logoColor=white" height="30" alt="SVM" />
         <br>SVM
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="Random Forest" />
+        <img src="https://img.shields.io/badge/-Random_Forest-34d399?style=flat&logoColor=white" height="30" alt="Random Forest" />
         <br>Random Forest
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="XGBoost" />
+        <img src="https://img.shields.io/badge/-XGBoost-f97316?style=flat&logoColor=white" height="30" alt="XGBoost" />
         <br>XGBoost
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="K-Means" />
+        <img src="https://img.shields.io/badge/-K--Means-fbbf24?style=flat&logoColor=white" height="30" alt="K-Means" />
         <br>K-Means
       </td>
     </tr>
@@ -181,35 +181,35 @@
   <table align="center" style="border: none;">
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/tensorflow/white" width="48" height="48" alt="TensorFlow" />
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
         <br>TensorFlow
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/keras/white" width="48" height="48" alt="Keras" />
+        <img src="https://skillicons.dev/icons?i=keras" width="48" height="48" alt="Keras" />
         <br>Keras
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/pytorch/white" width="48" height="48" alt="PyTorch" />
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
         <br>PyTorch
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="ANN" />
+        <img src="https://img.shields.io/badge/-ANN-f97316?style=flat&logoColor=white" height="30" alt="ANN" />
         <br>ANN
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="CNN" />
+        <img src="https://img.shields.io/badge/-CNN-f97316?style=flat&logoColor=white" height="30" alt="CNN" />
         <br>CNN
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="RNN" />
+        <img src="https://img.shields.io/badge/-RNN-f97316?style=flat&logoColor=white" height="30" alt="RNN" />
         <br>RNN
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="DNN" />
+        <img src="https://img.shields.io/badge/-DNN-f97316?style=flat&logoColor=white" height="30" alt="DNN" />
         <br>DNN
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="GAN" />
+        <img src="https://img.shields.io/badge/-GAN-a78bfa?style=flat&logoColor=white" height="30" alt="GAN" />
         <br>GAN
       </td>
     </tr>
@@ -227,15 +227,23 @@
   <table align="center" style="border: none;">
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="NLP" />
+        <img src="https://img.shields.io/badge/-NLP-a78bfa?style=flat&logoColor=white" height="30" alt="NLP" />
         <br>NLP
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="Text Classification" />
+        <img src="https://img.shields.io/badge/-Text_Cleaning-7c3aed?style=flat&logoColor=white" height="30" alt="Text Cleaning" />
+        <br>Text Cleaning
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/-Vectorization-6d28d9?style=flat&logoColor=white" height="30" alt="Vectorization" />
+        <br>Vectorization
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/-Text_Class.-5b21b6?style=flat&logoColor=white" height="30" alt="Text Classification" />
         <br>Text Class.
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/opencv/white" width="48" height="48" alt="OpenCV" />
+        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
         <br>OpenCV
       </td>
     </tr>
@@ -250,12 +258,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Jupyter-252525?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-252525?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-252525?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-252525?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-252525?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-252525?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=jupyter,vscode,git,linux,googlecolab,kaggle&theme=dark" />
 </div>
 
 <br/>
@@ -359,42 +362,15 @@
 
 <div align="center">
   <table align="center" style="border: none;">
-    <tr>
-      <td width="30">✅</td>
-      <td>Machine Learning Fundamentals</td>
-    </tr>
-    <tr>
-      <td width="30">✅</td>
-      <td>Deep Learning — ANN, CNN, RNN, DNN, GAN</td>
-    </tr>
-    <tr>
-      <td width="30">✅</td>
-      <td>Natural Language Processing Basics</td>
-    </tr>
-    <tr>
-      <td width="30">✅</td>
-      <td>Computer Vision with OpenCV</td>
-    </tr>
-    <tr>
-      <td width="30">🔄</td>
-      <td>Large Language Models &amp; Prompt Engineering</td>
-    </tr>
-    <tr>
-      <td width="30">🔄</td>
-      <td>MLOps &amp; Model Deployment — Flask / FastAPI</td>
-    </tr>
-    <tr>
-      <td width="30">⏳</td>
-      <td>Transformers &amp; Attention Mechanisms</td>
-    </tr>
-    <tr>
-      <td width="30">⏳</td>
-      <td>Reinforcement Learning</td>
-    </tr>
-    <tr>
-      <td width="30">⏳</td>
-      <td>Cloud AI — AWS SageMaker / GCP Vertex AI</td>
-    </tr>
+    <tr><td width="30">✅</td><td>Machine Learning Fundamentals</td></tr>
+    <tr><td width="30">✅</td><td>Deep Learning — ANN, CNN, RNN, DNN, GAN</td></tr>
+    <tr><td width="30">✅</td><td>Natural Language Processing Basics</td></tr>
+    <tr><td width="30">✅</td><td>Computer Vision with OpenCV</td></tr>
+    <tr><td width="30">🔄</td><td>Large Language Models &amp; Prompt Engineering</td></tr>
+    <tr><td width="30">🔄</td><td>MLOps &amp; Model Deployment — Flask / FastAPI</td></tr>
+    <tr><td width="30">⏳</td><td>Transformers &amp; Attention Mechanisms</td></tr>
+    <tr><td width="30">⏳</td><td>Reinforcement Learning</td></tr>
+    <tr><td width="30">⏳</td><td>Cloud AI — AWS SageMaker / GCP Vertex AI</td></tr>
   </table>
 </div>
 
