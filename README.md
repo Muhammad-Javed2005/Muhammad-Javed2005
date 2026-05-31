@@ -1,121 +1,113 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:6157f6,100:1dbb85&height=220&section=header&text=Muhammad%20Javed&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20%26%20Data%20Science&descSize=18&descAlignY=60&descColor=b0b0cc&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a1a,40:1a1a3e,100:0d2b45&height=200&section=header&text=Muhammad%20Javed&fontSize=56&fontColor=ffffff&fontAlignY=45&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Data%20Science&descSize=17&descAlignY=68&descColor=8ab4f8&animation=blinking)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=6157F6&center=true&vCenter=true&width=600&lines=🤖+AI+%26+Machine+Learning+Engineer;🧠+Deep+Learning+%7C+CNN+%7C+RNN+%7C+GAN;🗣️+Natural+Language+Processing;📊+Data+Science+%26+Analytics;🚀+Building+Intelligent+Systems;🤝+Open+to+Collaborate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=🤖+Machine+Learning+%7C+Deep+Learning+%7C+NLP;🧠+CNN+%7C+RNN+%7C+GAN+%7C+Transformer+Architectures;📊+Data+Science+%7C+Analytics+%7C+Visualization;🔬+Computer+Vision+%7C+OpenCV+%7C+TensorFlow;🚀+Building+Intelligent+AI+Systems;🌐+Open+to+Collaborate+—+Karachi%2C+Pakistan)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Javed2005&style=for-the-badge&color=6157f6&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Muhammad-Javed2005?style=for-the-badge&color=1dbb85&labelColor=0d0d1a&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/Muhammad-Javed2005?style=for-the-badge&color=6157f6&labelColor=0d0d1a&label=TOTAL+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Javed2005&style=flat-square&color=38bdf8&label=PROFILE+VIEWS)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Muhammad-Javed2005?style=flat-square&color=34d399&labelColor=0a0a1a&label=FOLLOWERS)
+&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/Muhammad-Javed2005?style=flat-square&color=fbbf24&labelColor=0a0a1a&label=STARS)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧬 Who Am I?
 
-<div align="center">
+```python
+class MuhammadJaved:
 
-| 🏷️ | Details |
-|:---:|:--------|
-| 👤 **Name** | Muhammad Javed |
-| 🎓 **University** | UBIT, University of Karachi |
-| 📚 **Semester** | 3rd Semester — Software Engineering |
-| 🏫 **Training** | Saylani IT Mass Training Program |
-| 🎯 **Specialization** | Artificial Intelligence & Data Science |
-| 📍 **Location** | Karachi, Pakistan 🇵🇰 |
-| 📧 **Email** | muhammadjaved.dh@gmail.com |
-| 🟢 **Status** | Open to Collaborate |
+    name       = "Muhammad Javed"
+    university = "UBIT — University of Karachi"
+    semester   = "3rd Semester | Software Engineering"
+    training   = "Saylani IT Mass Training Program"
+    focus      = ["Artificial Intelligence", "Machine Learning", "Data Science"]
+    location   = "Karachi, Pakistan 🇵🇰"
+    email      = "muhammadjaved.dh@gmail.com"
+    status     = "Open to Collaborate ✅"
 
-</div>
-
-<br/>
-
-<div align="center">
-
-💡 *"Transforming raw data into intelligent solutions"*
-
-</div>
-
-<br/>
-
-### 🎯 Current Goals
-
-- 🤖 Exploring **Large Language Models** & Generative AI
-- 🔧 Building **end-to-end ML pipelines**
-- 🔬 Research in **Computer Vision** & NLP
-- 🌍 Contributing to **open-source AI** projects
+    def mission(self):
+        return "Transforming raw data into intelligent solutions 🚀"
+```
 
 ---
 
-## 🛠️ Technical Skills
+## 🎯 Current Focus
 
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-0d0d1a?style=for-the-badge&logo=python&logoColor=1dbb85)
-![C++](https://img.shields.io/badge/C++-0d0d1a?style=for-the-badge&logo=cplusplus&logoColor=6157f6)
-![Java](https://img.shields.io/badge/Java-0d0d1a?style=for-the-badge&logo=openjdk&logoColor=6157f6)
+```
+🔭  Exploring Large Language Models & Generative AI
+🔧  Building end-to-end ML pipelines & deploying models
+🔬  Research in Computer Vision & Natural Language Processing
+🌍  Contributing to open-source AI projects
+📖  Learning MLOps — Flask / FastAPI / Docker
+```
 
 ---
 
-### 📊 Data Analysis & Visualization
+## 🛠️ Technical Arsenal
 
-![NumPy](https://img.shields.io/badge/NumPy-0d0d1a?style=for-the-badge&logo=numpy&logoColor=1dbb85)
-![Pandas](https://img.shields.io/badge/Pandas-0d0d1a?style=for-the-badge&logo=pandas&logoColor=1dbb85)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0d1a?style=for-the-badge&logo=python&logoColor=1dbb85)
-![Seaborn](https://img.shields.io/badge/Seaborn-0d0d1a?style=for-the-badge&logo=python&logoColor=1dbb85)
-![Excel](https://img.shields.io/badge/Excel-0d0d1a?style=for-the-badge&logo=microsoft-excel&logoColor=1dbb85)
-![Power BI](https://img.shields.io/badge/Power_BI-0d0d1a?style=for-the-badge&logo=powerbi&logoColor=1dbb85)
-![SQL](https://img.shields.io/badge/SQL-0d0d1a?style=for-the-badge&logo=mysql&logoColor=1dbb85)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-0a0a1a?style=for-the-badge&logo=python&logoColor=38bdf8)
+![C++](https://img.shields.io/badge/C++-0a0a1a?style=for-the-badge&logo=cplusplus&logoColor=38bdf8)
+![Java](https://img.shields.io/badge/Java-0a0a1a?style=for-the-badge&logo=openjdk&logoColor=38bdf8)
+
+---
+
+### 📊 Data Science & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-0a0a1a?style=for-the-badge&logo=numpy&logoColor=34d399)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a1a?style=for-the-badge&logo=pandas&logoColor=34d399)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a1a?style=for-the-badge&logo=python&logoColor=34d399)
+![Seaborn](https://img.shields.io/badge/Seaborn-0a0a1a?style=for-the-badge&logo=python&logoColor=34d399)
+![Power BI](https://img.shields.io/badge/Power_BI-0a0a1a?style=for-the-badge&logo=powerbi&logoColor=fbbf24)
+![Excel](https://img.shields.io/badge/Excel-0a0a1a?style=for-the-badge&logo=microsoftexcel&logoColor=34d399)
+![SQL](https://img.shields.io/badge/SQL-0a0a1a?style=for-the-badge&logo=mysql&logoColor=34d399)
 
 ---
 
 ### 🤖 Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d0d1a?style=for-the-badge&logo=scikit-learn&logoColor=6157f6)
-![Linear Regression](https://img.shields.io/badge/Linear_Regression-0d0d1a?style=for-the-badge&logoColor=6157f6)
-![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-0d0d1a?style=for-the-badge&logoColor=6157f6)
-![KNN](https://img.shields.io/badge/KNN-0d0d1a?style=for-the-badge&logoColor=6157f6)
-![SVM](https://img.shields.io/badge/SVM-0d0d1a?style=for-the-badge&logoColor=6157f6)
-![Random Forest](https://img.shields.io/badge/Random_Forest-0d0d1a?style=for-the-badge&logoColor=6157f6)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d0d1a?style=for-the-badge&logoColor=6157f6)
-![K-Means](https://img.shields.io/badge/K--Means-0d0d1a?style=for-the-badge&logoColor=6157f6)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0a0a1a?style=for-the-badge&logo=scikitlearn&logoColor=fbbf24)
+![Linear Regression](https://img.shields.io/badge/Linear_Regression-0a0a1a?style=for-the-badge&logoColor=fbbf24)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-0a0a1a?style=for-the-badge&logoColor=fbbf24)
+![KNN](https://img.shields.io/badge/KNN-0a0a1a?style=for-the-badge&logoColor=fbbf24)
+![SVM](https://img.shields.io/badge/SVM-0a0a1a?style=for-the-badge&logoColor=fbbf24)
+![Random Forest](https://img.shields.io/badge/Random_Forest-0a0a1a?style=for-the-badge&logoColor=fbbf24)
+![XGBoost](https://img.shields.io/badge/XGBoost-0a0a1a?style=for-the-badge&logoColor=fbbf24)
+![K-Means](https://img.shields.io/badge/K--Means-0a0a1a?style=for-the-badge&logoColor=fbbf24)
 
 ---
 
 ### 🧠 Deep Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d1a?style=for-the-badge&logo=tensorflow&logoColor=1dbb85)
-![Keras](https://img.shields.io/badge/Keras-0d0d1a?style=for-the-badge&logo=keras&logoColor=1dbb85)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0d1a?style=for-the-badge&logo=pytorch&logoColor=1dbb85)
-![ANN](https://img.shields.io/badge/ANN-0d0d1a?style=for-the-badge&logoColor=1dbb85)
-![CNN](https://img.shields.io/badge/CNN-0d0d1a?style=for-the-badge&logoColor=1dbb85)
-![RNN](https://img.shields.io/badge/RNN-0d0d1a?style=for-the-badge&logoColor=1dbb85)
-![DNN](https://img.shields.io/badge/DNN-0d0d1a?style=for-the-badge&logoColor=1dbb85)
-![GAN](https://img.shields.io/badge/GAN-0d0d1a?style=for-the-badge&logoColor=1dbb85)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a1a?style=for-the-badge&logo=tensorflow&logoColor=f97316)
+![Keras](https://img.shields.io/badge/Keras-0a0a1a?style=for-the-badge&logo=keras&logoColor=f97316)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a1a?style=for-the-badge&logo=pytorch&logoColor=f97316)
+![ANN](https://img.shields.io/badge/ANN-0a0a1a?style=for-the-badge&logoColor=f97316)
+![CNN](https://img.shields.io/badge/CNN-0a0a1a?style=for-the-badge&logoColor=f97316)
+![RNN](https://img.shields.io/badge/RNN-0a0a1a?style=for-the-badge&logoColor=f97316)
+![DNN](https://img.shields.io/badge/DNN-0a0a1a?style=for-the-badge&logoColor=f97316)
+![GAN](https://img.shields.io/badge/GAN-0a0a1a?style=for-the-badge&logoColor=f97316)
 
 ---
 
 ### 🗣️ Natural Language Processing
-
-![NLP](https://img.shields.io/badge/NLP-0d0d1a?style=for-the-badge&logoColor=6157f6)
-![Text Cleaning](https://img.shields.io/badge/Text_Cleaning-0d0d1a?style=for-the-badge&logoColor=6157f6)
-![Vectorization](https://img.shields.io/badge/Vectorization-0d0d1a?style=for-the-badge&logoColor=6157f6)
-![Text Classification](https://img.shields.io/badge/Text_Classification-0d0d1a?style=for-the-badge&logoColor=6157f6)
+![NLP](https://img.shields.io/badge/NLP-0a0a1a?style=for-the-badge&logoColor=a78bfa)
+![Text Cleaning](https://img.shields.io/badge/Text_Cleaning-0a0a1a?style=for-the-badge&logoColor=a78bfa)
+![Vectorization](https://img.shields.io/badge/Vectorization-0a0a1a?style=for-the-badge&logoColor=a78bfa)
+![Text Classification](https://img.shields.io/badge/Text_Classification-0a0a1a?style=for-the-badge&logoColor=a78bfa)
 
 ---
 
 ### 👁️ Computer Vision
-
-![OpenCV](https://img.shields.io/badge/OpenCV-0d0d1a?style=for-the-badge&logo=opencv&logoColor=1dbb85)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0a1a?style=for-the-badge&logo=opencv&logoColor=34d399)
 
 ---
 
@@ -123,11 +115,19 @@
 
 <div align="center">
 
-| # | Project | Domain | Description | Link |
-|:-:|:--------|:-------|:------------|:----:|
-| 01 | **Brain Tumor Detection** | `CNN` `Medical AI` | Deep learning CNN model to classify brain MRI scans and detect tumors with high accuracy | [→](https://github.com/Muhammad-Javed2005/Brain-Tumor-Detection-CNN) |
-| 02 | **Fake News Detection** | `ML` `NLP` | NLP-powered pipeline classifying fake vs real news using text analysis & ML models | [→](https://github.com/Muhammad-Javed2005/FakeNews-Detection-ML) |
-| 03 | **Job Market Trend Monitor** | `Data Science` | Real-time dashboard analyzing in-demand skills and evolving job market trends | [→](https://github.com/Muhammad-Javed2005/JobMarket-TrendMonitor) |
+| # | Project | Tech Stack | Description |
+|:-:|:--------|:----------:|:------------|
+| 🧠 | **Brain Tumor Detection** | `CNN` `Medical AI` `TensorFlow` | Deep learning model classifying brain MRI scans to detect tumors with high accuracy |
+| 📰 | **Fake News Detection** | `NLP` `ML` `Scikit-Learn` | NLP-powered pipeline classifying fake vs real news using text analysis & ML models |
+| 📈 | **Job Market Trend Monitor** | `Data Science` `Power BI` `Python` | Real-time dashboard analyzing in-demand skills and evolving job market trends |
+
+</div>
+
+<div align="center">
+
+[![Brain Tumor](https://img.shields.io/badge/🧠_Brain_Tumor_Detection-View_Repo-0a0a1a?style=for-the-badge&logoColor=38bdf8)](https://github.com/Muhammad-Javed2005/Brain-Tumor-Detection-CNN)
+[![Fake News](https://img.shields.io/badge/📰_Fake_News_Detection-View_Repo-0a0a1a?style=for-the-badge&logoColor=34d399)](https://github.com/Muhammad-Javed2005/FakeNews-Detection-ML)
+[![Job Market](https://img.shields.io/badge/📈_Job_Market_Monitor-View_Repo-0a0a1a?style=for-the-badge&logoColor=fbbf24)](https://github.com/Muhammad-Javed2005/JobMarket-TrendMonitor)
 
 </div>
 
@@ -137,15 +137,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Javed2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=6157f6&icon_color=1dbb85&text_color=b0b0cc&rank_icon=github&border_radius=8" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Javed2005&theme=tokyonight&hide_border=true&background=0d0d1a&ring=6157f6&fire=1dbb85&currStreakLabel=b0b0cc&border_radius=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Javed2005&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0a1a&title_color=38bdf8&icon_color=34d399&text_color=94a3b8&rank_icon=github&border_radius=10" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Javed2005&theme=transparent&hide_border=true&background=0a0a1a&ring=38bdf8&fire=f97316&currStreakLabel=94a3b8&border_radius=10" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Javed2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=6157f6&text_color=b0b0cc&langs_count=8&border_radius=8" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Javed2005&theme=tokyonight&utcOffset=5" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Javed2005&layout=compact&theme=transparent&hide_border=true&bg_color=0a0a1a&title_color=38bdf8&text_color=94a3b8&langs_count=8&border_radius=10" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Javed2005&theme=transparent&utcOffset=5" width="49%"/>
 
 </div>
 
@@ -155,35 +155,17 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Javed2005&bg_color=0d0d1a&color=1dbb85&line=6157f6&point=ffffff&area=true&area_color=6157f6&hide_border=true&border_radius=8)](https://github.com/Muhammad-Javed2005)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Javed2005&bg_color=0a0a1a&color=34d399&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true&border_radius=10)](https://github.com/Muhammad-Javed2005)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad-Javed2005&theme=tokyonight&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📋 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Javed2005&theme=tokyonight" width="98%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Javed2005&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Javed2005&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Javed2005&theme=tokyonight" width="32%"/>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad-Javed2005&theme=darkhub&no-frame=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -193,19 +175,17 @@
 
 <div align="center">
 
-| Status | Topic |
-|:------:|:------|
-| ✅ | Machine Learning Fundamentals |
-| ✅ | Deep Learning — ANN, CNN, RNN, DNN, GAN |
-| ✅ | Natural Language Processing Basics |
-| ✅ | Computer Vision with OpenCV |
-| 🔄 | Large Language Models & Prompt Engineering |
-| 🔄 | MLOps & Model Deployment — Flask / FastAPI |
-| ⏳ | Transformers & Attention Mechanisms |
-| ⏳ | Reinforcement Learning |
-| ⏳ | Cloud AI — AWS SageMaker / GCP Vertex AI |
-
-**✅ Completed &nbsp;&nbsp; 🔄 In Progress &nbsp;&nbsp; ⏳ Planned**
+```
+✅  Machine Learning Fundamentals ——————————————————— DONE
+✅  Deep Learning: ANN · CNN · RNN · DNN · GAN ————— DONE
+✅  Natural Language Processing Basics ————————————— DONE
+✅  Computer Vision with OpenCV ————————————————————— DONE
+🔄  Large Language Models & Prompt Engineering ————— IN PROGRESS
+🔄  MLOps & Model Deployment (Flask / FastAPI) ————— IN PROGRESS
+⏳  Transformers & Attention Mechanisms ———————————— UPCOMING
+⏳  Reinforcement Learning —————————————————————————— UPCOMING
+⏳  Cloud AI: AWS SageMaker / GCP Vertex AI ————————— UPCOMING
+```
 
 </div>
 
@@ -215,10 +195,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=6157f6)](https://www.linkedin.com/in/muhammad-javed-24b262369)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d1a?style=for-the-badge&logo=github&logoColor=1dbb85)](https://github.com/Muhammad-Javed2005)
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d1a?style=for-the-badge&logo=gmail&logoColor=6157f6)](mailto:muhammadjaved.dh@gmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail_Tech-0d0d1a?style=for-the-badge&logo=gmail&logoColor=1dbb85)](mailto:muhammadjaved.tech5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/muhammad-javed-24b262369)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=34d399)](https://github.com/Muhammad-Javed2005)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a1a?style=for-the-badge&logo=gmail&logoColor=f97316)](mailto:muhammadjaved.dh@gmail.com)
 
 </div>
 
@@ -226,12 +205,12 @@
 
 <div align="center">
 
-*⭐ If you find my work useful, consider giving my repositories a star — it keeps me motivated!*
+*⭐ Star my repositories if you find them helpful — it keeps me motivated!*
 
 </div>
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1dbb85,100:6157f6&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=cylinder&color=0:0d2b45,100:0a0a1a&height=120&section=footer)
 
 </div>
