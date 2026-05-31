@@ -57,57 +57,75 @@ class MuhammadJaved:
 ## 🛠️ Technical Arsenal
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-0a0a1a?style=for-the-badge&logo=python&logoColor=38bdf8)
-![C++](https://img.shields.io/badge/C++-0a0a1a?style=for-the-badge&logo=cplusplus&logoColor=38bdf8)
-![Java](https://img.shields.io/badge/Java-0a0a1a?style=for-the-badge&logo=openjdk&logoColor=38bdf8)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0a0a1a?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C++-0a0a1a?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Java-0a0a1a?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+</p>
 
 ---
 
 ### 📊 Data Science & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-0a0a1a?style=for-the-badge&logo=numpy&logoColor=34d399)
-![Pandas](https://img.shields.io/badge/Pandas-0a0a1a?style=for-the-badge&logo=pandas&logoColor=34d399)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a1a?style=for-the-badge&logo=python&logoColor=34d399)
-![Seaborn](https://img.shields.io/badge/Seaborn-0a0a1a?style=for-the-badge&logo=python&logoColor=34d399)
-![Power BI](https://img.shields.io/badge/Power_BI-0a0a1a?style=for-the-badge&logo=powerbi&logoColor=fbbf24)
-![Excel](https://img.shields.io/badge/Excel-0a0a1a?style=for-the-badge&logo=microsoftexcel&logoColor=34d399)
-![SQL](https://img.shields.io/badge/SQL-0a0a1a?style=for-the-badge&logo=mysql&logoColor=34d399)
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-0a0a1a?style=for-the-badge&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/Pandas-0a0a1a?style=for-the-badge&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/Matplotlib-0a0a1a?style=for-the-badge&logo=python&logoColor=11557c" />
+  <img src="https://img.shields.io/badge/Seaborn-0a0a1a?style=for-the-badge&logo=python&logoColor=4c72b0" />
+  <img src="https://img.shields.io/badge/Power_BI-0a0a1a?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Excel-0a0a1a?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
+  <img src="https://img.shields.io/badge/SQL-0a0a1a?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+</p>
 
 ---
 
 ### 🤖 Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0a0a1a?style=for-the-badge&logo=scikitlearn&logoColor=fbbf24)
-![Linear Regression](https://img.shields.io/badge/Linear_Regression-0a0a1a?style=for-the-badge&logoColor=fbbf24)
-![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-0a0a1a?style=for-the-badge&logoColor=fbbf24)
-![KNN](https://img.shields.io/badge/KNN-0a0a1a?style=for-the-badge&logoColor=fbbf24)
-![SVM](https://img.shields.io/badge/SVM-0a0a1a?style=for-the-badge&logoColor=fbbf24)
-![Random Forest](https://img.shields.io/badge/Random_Forest-0a0a1a?style=for-the-badge&logoColor=fbbf24)
-![XGBoost](https://img.shields.io/badge/XGBoost-0a0a1a?style=for-the-badge&logoColor=fbbf24)
-![K-Means](https://img.shields.io/badge/K--Means-0a0a1a?style=for-the-badge&logoColor=fbbf24)
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-0a0a1a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Linear_Regression-0a0a1a?style=for-the-badge&logo=python&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Logistic_Regression-0a0a1a?style=for-the-badge&logo=python&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/KNN-0a0a1a?style=for-the-badge&logo=python&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/SVM-0a0a1a?style=for-the-badge&logo=python&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Random_Forest-0a0a1a?style=for-the-badge&logo=python&logoColor=34d399" />
+  <img src="https://img.shields.io/badge/XGBoost-0a0a1a?style=for-the-badge&logo=python&logoColor=fbbf24" />
+  <img src="https://img.shields.io/badge/K--Means-0a0a1a?style=for-the-badge&logo=python&logoColor=a78bfa" />
+</p>
 
 ---
 
 ### 🧠 Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a1a?style=for-the-badge&logo=tensorflow&logoColor=f97316)
-![Keras](https://img.shields.io/badge/Keras-0a0a1a?style=for-the-badge&logo=keras&logoColor=f97316)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0a1a?style=for-the-badge&logo=pytorch&logoColor=f97316)
-![ANN](https://img.shields.io/badge/ANN-0a0a1a?style=for-the-badge&logoColor=f97316)
-![CNN](https://img.shields.io/badge/CNN-0a0a1a?style=for-the-badge&logoColor=f97316)
-![RNN](https://img.shields.io/badge/RNN-0a0a1a?style=for-the-badge&logoColor=f97316)
-![DNN](https://img.shields.io/badge/DNN-0a0a1a?style=for-the-badge&logoColor=f97316)
-![GAN](https://img.shields.io/badge/GAN-0a0a1a?style=for-the-badge&logoColor=f97316)
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-0a0a1a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Keras-0a0a1a?style=for-the-badge&logo=keras&logoColor=D00000" />
+  <img src="https://img.shields.io/badge/PyTorch-0a0a1a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/ANN-0a0a1a?style=for-the-badge&logo=python&logoColor=f97316" />
+  <img src="https://img.shields.io/badge/CNN-0a0a1a?style=for-the-badge&logo=python&logoColor=f97316" />
+  <img src="https://img.shields.io/badge/RNN-0a0a1a?style=for-the-badge&logo=python&logoColor=f97316" />
+  <img src="https://img.shields.io/badge/DNN-0a0a1a?style=for-the-badge&logo=python&logoColor=f97316" />
+  <img src="https://img.shields.io/badge/GAN-0a0a1a?style=for-the-badge&logo=python&logoColor=f97316" />
+</p>
 
 ---
 
 ### 🗣️ Natural Language Processing
-![NLP](https://img.shields.io/badge/NLP-0a0a1a?style=for-the-badge&logoColor=a78bfa)
-![Text Cleaning](https://img.shields.io/badge/Text_Cleaning-0a0a1a?style=for-the-badge&logoColor=a78bfa)
-![Vectorization](https://img.shields.io/badge/Vectorization-0a0a1a?style=for-the-badge&logoColor=a78bfa)
-![Text Classification](https://img.shields.io/badge/Text_Classification-0a0a1a?style=for-the-badge&logoColor=a78bfa)
+
+<p>
+  <img src="https://img.shields.io/badge/NLP-0a0a1a?style=for-the-badge&logo=python&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Text_Cleaning-0a0a1a?style=for-the-badge&logo=python&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Vectorization-0a0a1a?style=for-the-badge&logo=python&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Text_Classification-0a0a1a?style=for-the-badge&logo=python&logoColor=a78bfa" />
+</p>
 
 ---
 
 ### 👁️ Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-0a0a1a?style=for-the-badge&logo=opencv&logoColor=34d399)
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-0a0a1a?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
+</p>
 
 ---
 
@@ -195,9 +213,9 @@ class MuhammadJaved:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/muhammad-javed-24b262369)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=34d399)](https://github.com/Muhammad-Javed2005)
-[![Gmail](https://img.shields.io/badge/Gmail-0a0a1a?style=for-the-badge&logo=gmail&logoColor=f97316)](mailto:muhammadjaved.dh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/muhammad-javed-24b262369)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Muhammad-Javed2005)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a1a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:muhammadjaved.dh@gmail.com)
 
 </div>
 
