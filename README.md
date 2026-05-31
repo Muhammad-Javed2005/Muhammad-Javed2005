@@ -32,7 +32,7 @@
       <td align="left">
         I am a Software Engineering undergraduate at <b>UBIT (University of Karachi)</b> with a deep focus on <b>Artificial Intelligence, Machine Learning, and Data Science</b>.
         <br><br>
-        I enjoy working with data — from raw preprocessing and exploration to building and training intelligent models — and I care deeply about <i>why</i> a model learns a certain pattern, not just <i>how</i> to run the code.
+        I enjoy working with data from raw preprocessing and exploration to building and training intelligent models  and I care deeply about <i>why</i> a model learns a certain pattern, not just <i>how</i> to run the code.
         <br><br>
         I am also enrolled in the <b>Saylani IT Mass Training Program</b>, where I am sharpening my practical AI skills. My key projects include a <b>Brain Tumor Detection system (CNN)</b>, a <b>Fake News Detection pipeline (NLP + ML)</b>, and a <b>Job Market Trend Monitor (Data Science Dashboard)</b>.
         <br><br>
