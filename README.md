@@ -1,234 +1,429 @@
 <div align="center">
+  <img src="./banner.png" width="100%" alt="Muhammad Javed Banner" />
+</div>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a1a,40:1a1a3e,100:0d2b45&height=200&section=header&text=Muhammad%20Javed&fontSize=56&fontColor=ffffff&fontAlignY=45&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Data%20Science&descSize=17&descAlignY=68&descColor=8ab4f8&animation=blinking)
+<br/>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=1000&color=000000&background=F5F5F5&center=true&vCenter=true&width=820&height=70&cursor=_&lines=%3E_++AI+%26+Machine+Learning+Engineer;%3E_++Stack%3A+Python+%2F+TensorFlow+%2F+PyTorch;%3E_++Deep+Learning+%7C+CNN+%7C+RNN+%7C+GAN;%3E_++Natural+Language+Processing;%3E_++Building+Intelligent+Systems..." />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=1000&color=FFFFFF&background=111111&center=true&vCenter=true&width=820&height=70&cursor=_&lines=%3E_++AI+%26+Machine+Learning+Engineer;%3E_++Stack%3A+Python+%2F+TensorFlow+%2F+PyTorch;%3E_++Deep+Learning+%7C+CNN+%7C+RNN+%7C+GAN;%3E_++Natural+Language+Processing;%3E_++Building+Intelligent+Systems..." />
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=1000&color=FFFFFF&background=111111&center=true&vCenter=true&width=820&height=70&cursor=_&lines=%3E_++AI+%26+Machine+Learning+Engineer;%3E_++Stack%3A+Python+%2F+TensorFlow+%2F+PyTorch;%3E_++Deep+Learning+%7C+CNN+%7C+RNN+%7C+GAN;%3E_++Natural+Language+Processing;%3E_++Building+Intelligent+Systems..." alt="Typing SVG" />
+    </picture>
+  </a>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════  ABOUT ME  ═══════════════════════ -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=A%20B%20O%20U%20T%C2%A0%C2%A0%C2%A0M%20E&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=70&section=header&text=A%20B%20O%20U%20T%C2%A0%C2%A0%C2%A0M%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=70&section=header&text=A%20B%20O%20U%20T%C2%A0%C2%A0%C2%A0M%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  </picture>
 </div>
 
 <div align="center">
+  <table width="90%">
+    <tr>
+      <td align="left">
+        I am a Software Engineering undergraduate at <b>UBIT (University of Karachi)</b> with a deep focus on <b>Artificial Intelligence, Machine Learning, and Data Science</b>.
+        <br><br>
+        I enjoy working with data — from raw preprocessing and exploration to building and training intelligent models — and I care deeply about <i>why</i> a model learns a certain pattern, not just <i>how</i> to run the code.
+        <br><br>
+        I am also enrolled in the <b>Saylani IT Mass Training Program</b>, where I am sharpening my practical AI skills. My key projects include a <b>Brain Tumor Detection system (CNN)</b>, a <b>Fake News Detection pipeline (NLP + ML)</b>, and a <b>Job Market Trend Monitor (Data Science Dashboard)</b>.
+        <br><br>
+        Currently exploring <b>Large Language Models</b> and working toward deploying end-to-end ML pipelines.
+      </td>
+    </tr>
+  </table>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=🤖+Machine+Learning+%7C+Deep+Learning+%7C+NLP;🧠+CNN+%7C+RNN+%7C+GAN+%7C+Transformer+Architectures;📊+Data+Science+%7C+Analytics+%7C+Visualization;🔬+Computer+Vision+%7C+OpenCV+%7C+TensorFlow;🚀+Building+Intelligent+AI+Systems;🌐+Open+to+Collaborate+—+Karachi%2C+Pakistan)](https://git.io/typing-svg)
+<br/>
 
+<!-- ═══════════════════════  TECHNICAL ARSENAL  ═══════════════════════ -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%C2%A0%C2%A0%C2%A0A%20R%20S%20E%20N%20A%20L&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=70&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%C2%A0%C2%A0%C2%A0A%20R%20S%20E%20N%20A%20L&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=70&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%C2%A0%C2%A0%C2%A0A%20R%20S%20E%20N%20A%20L&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <samp style="font-size: 14px; color: #888;">L A N G U A G E S</samp>
+</div>
+<br/>
+
+<div align="center">
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/cplusplus/white" width="48" height="48" alt="C++" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/openjdk/white" width="48" height="48" alt="Java" />
+        <br>Java
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <samp style="font-size: 14px; color: #888;">D A T A &nbsp; S C I E N C E &nbsp; &amp; &nbsp; V I S U A L I Z A T I O N</samp>
+</div>
+<br/>
+
+<div align="center">
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/numpy/white" width="48" height="48" alt="NumPy" />
+        <br>NumPy
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/pandas/white" width="48" height="48" alt="Pandas" />
+        <br>Pandas
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="Matplotlib" />
+        <br>Matplotlib
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="Seaborn" />
+        <br>Seaborn
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/powerbi/white" width="48" height="48" alt="Power BI" />
+        <br>Power BI
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/microsoftexcel/white" width="48" height="48" alt="Excel" />
+        <br>Excel
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/mysql/white" width="48" height="48" alt="SQL" />
+        <br>SQL
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <samp style="font-size: 14px; color: #888;">M A C H I N E &nbsp; L E A R N I N G</samp>
+</div>
+<br/>
+
+<div align="center">
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/scikitlearn/white" width="48" height="48" alt="Scikit-Learn" />
+        <br>Scikit-Learn
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="Linear Regression" />
+        <br>Lin. Regression
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="Logistic Regression" />
+        <br>Log. Regression
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="KNN" />
+        <br>KNN
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="SVM" />
+        <br>SVM
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="Random Forest" />
+        <br>Random Forest
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="XGBoost" />
+        <br>XGBoost
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="K-Means" />
+        <br>K-Means
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <samp style="font-size: 14px; color: #888;">D E E P &nbsp; L E A R N I N G</samp>
+</div>
+<br/>
+
+<div align="center">
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/tensorflow/white" width="48" height="48" alt="TensorFlow" />
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/keras/white" width="48" height="48" alt="Keras" />
+        <br>Keras
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/pytorch/white" width="48" height="48" alt="PyTorch" />
+        <br>PyTorch
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="ANN" />
+        <br>ANN
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="CNN" />
+        <br>CNN
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="RNN" />
+        <br>RNN
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="DNN" />
+        <br>DNN
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="GAN" />
+        <br>GAN
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <samp style="font-size: 14px; color: #888;">N L P &nbsp; &amp; &nbsp; C O M P U T E R &nbsp; V I S I O N</samp>
+</div>
+<br/>
+
+<div align="center">
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="NLP" />
+        <br>NLP
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="Text Classification" />
+        <br>Text Class.
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/opencv/white" width="48" height="48" alt="OpenCV" />
+        <br>OpenCV
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <samp style="font-size: 14px; color: #888;">T O O L K I T</samp>
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Jupyter-252525?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-252525?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-252525?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-252525?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-252525?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-252525?style=for-the-badge&logo=kaggle&logoColor=white" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════  TECHNICAL FOCUS  ═══════════════════════ -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%C2%A0%C2%A0%C2%A0F%20O%20C%20U%20S&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=70&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%C2%A0%C2%A0%C2%A0F%20O%20C%20U%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=70&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%C2%A0%C2%A0%C2%A0F%20O%20C%20U%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  </picture>
+</div>
+<br/>
+
+<div align="center">
+  <table align="center" style="border: none;">
+    <tr>
+      <td width="30">▪️</td>
+      <td><b>Deep Learning Research:</b> Building and fine-tuning CNN, RNN, and GAN architectures for real-world problems.</td>
+    </tr>
+    <tr>
+      <td width="30">▪️</td>
+      <td><b>Natural Language Processing:</b> Text preprocessing, vectorization, classification using ML and DL pipelines.</td>
+    </tr>
+    <tr>
+      <td width="30">▪️</td>
+      <td><b>Data Engineering:</b> Advanced data analysis with Pandas, NumPy, and visualization with Power BI and Matplotlib.</td>
+    </tr>
+    <tr>
+      <td width="30">▪️</td>
+      <td><b>Generative AI:</b> Exploring Large Language Models, Prompt Engineering, and Retrieval-Augmented Generation.</td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════  FEATURED PROJECTS  ═══════════════════════ -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=F%20E%20A%20T%20U%20R%20E%20D%C2%A0%C2%A0%C2%A0P%20R%20O%20J%20E%20C%20T%20S&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=70&section=header&text=F%20E%20A%20T%20U%20R%20E%20D%C2%A0%C2%A0%C2%A0P%20R%20O%20J%20E%20C%20T%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=70&section=header&text=F%20E%20A%20T%20U%20R%20E%20D%C2%A0%C2%A0%C2%A0P%20R%20O%20J%20E%20C%20T%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  </picture>
+</div>
+<br/>
+
+<div align="center">
+  <table align="center" style="border: none;" width="90%">
+    <tr>
+      <td width="30">🧠</td>
+      <td><b>Brain Tumor Detection:</b> Deep learning CNN model to classify brain MRI scans and detect tumors with high accuracy. — <a href="https://github.com/Muhammad-Javed2005/Brain-Tumor-Detection-CNN">View Repo →</a></td>
+    </tr>
+    <tr>
+      <td width="30">📰</td>
+      <td><b>Fake News Detection:</b> NLP-powered pipeline classifying fake vs real news using text analysis and ML models. — <a href="https://github.com/Muhammad-Javed2005/FakeNews-Detection-ML">View Repo →</a></td>
+    </tr>
+    <tr>
+      <td width="30">📊</td>
+      <td><b>Job Market Trend Monitor:</b> Real-time dashboard analyzing in-demand skills and evolving job market trends. — <a href="https://github.com/Muhammad-Javed2005/JobMarket-TrendMonitor">View Repo →</a></td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════  GLOBAL METRICS  ═══════════════════════ -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=G%20L%20O%20B%20A%20L%C2%A0%C2%A0%C2%A0M%20E%20T%20R%20I%20C%20S&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=70&section=header&text=G%20L%20O%20B%20A%20L%C2%A0%C2%A0%C2%A0M%20E%20T%20R%20I%20C%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=70&section=header&text=G%20L%20O%20B%20A%20L%C2%A0%C2%A0%C2%A0M%20E%20T%20R%20I%20C%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  </picture>
 </div>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Javed2005&style=flat-square&color=38bdf8&label=PROFILE+VIEWS)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/Muhammad-Javed2005?style=flat-square&color=34d399&labelColor=0a0a1a&label=FOLLOWERS)
-&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/Muhammad-Javed2005?style=flat-square&color=fbbf24&labelColor=0a0a1a&label=STARS)
-
-</div>
-
----
-
-## 🧬 Who Am I?
-
-```python
-class MuhammadJaved:
-
-    name       = "Muhammad Javed"
-    university = "UBIT — University of Karachi"
-    semester   = "3rd Semester | Software Engineering"
-    training   = "Saylani IT Mass Training Program"
-    focus      = ["Artificial Intelligence", "Machine Learning", "Data Science"]
-    location   = "Karachi, Pakistan 🇵🇰"
-    email      = "muhammadjaved.dh@gmail.com"
-    status     = "Open to Collaborate ✅"
-
-    def mission(self):
-        return "Transforming raw data into intelligent solutions 🚀"
-```
-
----
-
-## 🎯 Current Focus
-
-```
-🔭  Exploring Large Language Models & Generative AI
-🔧  Building end-to-end ML pipelines & deploying models
-🔬  Research in Computer Vision & Natural Language Processing
-🌍  Contributing to open-source AI projects
-📖  Learning MLOps — Flask / FastAPI / Docker
-```
-
----
-
-## 🛠️ Technical Arsenal
-
-### 💻 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0a0a1a?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/C++-0a0a1a?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/Java-0a0a1a?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-</p>
-
----
-
-### 📊 Data Science & Visualization
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-0a0a1a?style=for-the-badge&logo=numpy&logoColor=013243" />
-  <img src="https://img.shields.io/badge/Pandas-0a0a1a?style=for-the-badge&logo=pandas&logoColor=150458" />
-  <img src="https://img.shields.io/badge/Matplotlib-0a0a1a?style=for-the-badge&logo=python&logoColor=11557c" />
-  <img src="https://img.shields.io/badge/Seaborn-0a0a1a?style=for-the-badge&logo=python&logoColor=4c72b0" />
-  <img src="https://img.shields.io/badge/Power_BI-0a0a1a?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-  <img src="https://img.shields.io/badge/Excel-0a0a1a?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
-  <img src="https://img.shields.io/badge/SQL-0a0a1a?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-</p>
-
----
-
-### 🤖 Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-0a0a1a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Linear_Regression-0a0a1a?style=for-the-badge&logo=python&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/Logistic_Regression-0a0a1a?style=for-the-badge&logo=python&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/KNN-0a0a1a?style=for-the-badge&logo=python&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/SVM-0a0a1a?style=for-the-badge&logo=python&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/Random_Forest-0a0a1a?style=for-the-badge&logo=python&logoColor=34d399" />
-  <img src="https://img.shields.io/badge/XGBoost-0a0a1a?style=for-the-badge&logo=python&logoColor=fbbf24" />
-  <img src="https://img.shields.io/badge/K--Means-0a0a1a?style=for-the-badge&logo=python&logoColor=a78bfa" />
-</p>
-
----
-
-### 🧠 Deep Learning
-
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-0a0a1a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/Keras-0a0a1a?style=for-the-badge&logo=keras&logoColor=D00000" />
-  <img src="https://img.shields.io/badge/PyTorch-0a0a1a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/ANN-0a0a1a?style=for-the-badge&logo=python&logoColor=f97316" />
-  <img src="https://img.shields.io/badge/CNN-0a0a1a?style=for-the-badge&logo=python&logoColor=f97316" />
-  <img src="https://img.shields.io/badge/RNN-0a0a1a?style=for-the-badge&logo=python&logoColor=f97316" />
-  <img src="https://img.shields.io/badge/DNN-0a0a1a?style=for-the-badge&logo=python&logoColor=f97316" />
-  <img src="https://img.shields.io/badge/GAN-0a0a1a?style=for-the-badge&logo=python&logoColor=f97316" />
-</p>
-
----
-
-### 🗣️ Natural Language Processing
-
-<p>
-  <img src="https://img.shields.io/badge/NLP-0a0a1a?style=for-the-badge&logo=python&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/Text_Cleaning-0a0a1a?style=for-the-badge&logo=python&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/Vectorization-0a0a1a?style=for-the-badge&logo=python&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/Text_Classification-0a0a1a?style=for-the-badge&logo=python&logoColor=a78bfa" />
-</p>
-
----
-
-### 👁️ Computer Vision
-
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-0a0a1a?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| # | Project | Tech Stack | Description |
-|:-:|:--------|:----------:|:------------|
-| 🧠 | **Brain Tumor Detection** | `CNN` `Medical AI` `TensorFlow` | Deep learning model classifying brain MRI scans to detect tumors with high accuracy |
-| 📰 | **Fake News Detection** | `NLP` `ML` `Scikit-Learn` | NLP-powered pipeline classifying fake vs real news using text analysis & ML models |
-| 📈 | **Job Market Trend Monitor** | `Data Science` `Power BI` `Python` | Real-time dashboard analyzing in-demand skills and evolving job market trends |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Javed2005&show_icons=true&theme=github_dark&hide_border=true&bg_color=111111&title_color=ffffff&icon_color=aaaaaa&text_color=888888&rank_icon=github&border_radius=0" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Javed2005&theme=github-dark-blue&hide_border=true&background=111111&ring=ffffff&fire=aaaaaa&currStreakLabel=888888&border_radius=0" width="49%"/>
 </div>
 
 <div align="center">
-
-[![Brain Tumor](https://img.shields.io/badge/🧠_Brain_Tumor_Detection-View_Repo-0a0a1a?style=for-the-badge&logoColor=38bdf8)](https://github.com/Muhammad-Javed2005/Brain-Tumor-Detection-CNN)
-[![Fake News](https://img.shields.io/badge/📰_Fake_News_Detection-View_Repo-0a0a1a?style=for-the-badge&logoColor=34d399)](https://github.com/Muhammad-Javed2005/FakeNews-Detection-ML)
-[![Job Market](https://img.shields.io/badge/📈_Job_Market_Monitor-View_Repo-0a0a1a?style=for-the-badge&logoColor=fbbf24)](https://github.com/Muhammad-Javed2005/JobMarket-TrendMonitor)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Javed2005&layout=compact&theme=github_dark&hide_border=true&bg_color=111111&title_color=ffffff&text_color=888888&langs_count=8&border_radius=0" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Javed2005&theme=github_dark&utcOffset=5" width="49%"/>
 </div>
 
----
+<br/>
 
-## 📊 GitHub Statistics
+<!-- ═══════════════════════  LEARNING ROADMAP  ═══════════════════════ -->
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=L%20E%20A%20R%20N%20I%20N%20G%C2%A0%C2%A0%C2%A0R%20O%20A%20D%20M%20A%20P&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=70&section=header&text=L%20E%20A%20R%20N%20I%20N%20G%C2%A0%C2%A0%C2%A0R%20O%20A%20D%20M%20A%20P&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=70&section=header&text=L%20E%20A%20R%20N%20I%20N%20G%C2%A0%C2%A0%C2%A0R%20O%20A%20D%20M%20A%20P&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  </picture>
+</div>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Javed2005&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0a1a&title_color=38bdf8&icon_color=34d399&text_color=94a3b8&rank_icon=github&border_radius=10" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Javed2005&theme=transparent&hide_border=true&background=0a0a1a&ring=38bdf8&fire=f97316&currStreakLabel=94a3b8&border_radius=10" width="49%"/>
-
+<div align="center">
+  <table align="center" style="border: none;">
+    <tr>
+      <td width="30">✅</td>
+      <td>Machine Learning Fundamentals</td>
+    </tr>
+    <tr>
+      <td width="30">✅</td>
+      <td>Deep Learning — ANN, CNN, RNN, DNN, GAN</td>
+    </tr>
+    <tr>
+      <td width="30">✅</td>
+      <td>Natural Language Processing Basics</td>
+    </tr>
+    <tr>
+      <td width="30">✅</td>
+      <td>Computer Vision with OpenCV</td>
+    </tr>
+    <tr>
+      <td width="30">🔄</td>
+      <td>Large Language Models &amp; Prompt Engineering</td>
+    </tr>
+    <tr>
+      <td width="30">🔄</td>
+      <td>MLOps &amp; Model Deployment — Flask / FastAPI</td>
+    </tr>
+    <tr>
+      <td width="30">⏳</td>
+      <td>Transformers &amp; Attention Mechanisms</td>
+    </tr>
+    <tr>
+      <td width="30">⏳</td>
+      <td>Reinforcement Learning</td>
+    </tr>
+    <tr>
+      <td width="30">⏳</td>
+      <td>Cloud AI — AWS SageMaker / GCP Vertex AI</td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Javed2005&layout=compact&theme=transparent&hide_border=true&bg_color=0a0a1a&title_color=38bdf8&text_color=94a3b8&langs_count=8&border_radius=10" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Javed2005&theme=transparent&utcOffset=5" width="49%"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
+<!-- ═══════════════════════  DIGITAL PRESENCE  ═══════════════════════ -->
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Javed2005&bg_color=0a0a1a&color=34d399&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true&border_radius=10)](https://github.com/Muhammad-Javed2005)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad-Javed2005&theme=darkhub&no-frame=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🗺️ Learning Roadmap
-
-<div align="center">
-
-```
-✅  Machine Learning Fundamentals ——————————————————— DONE
-✅  Deep Learning: ANN · CNN · RNN · DNN · GAN ————— DONE
-✅  Natural Language Processing Basics ————————————— DONE
-✅  Computer Vision with OpenCV ————————————————————— DONE
-🔄  Large Language Models & Prompt Engineering ————— IN PROGRESS
-🔄  MLOps & Model Deployment (Flask / FastAPI) ————— IN PROGRESS
-⏳  Transformers & Attention Mechanisms ———————————— UPCOMING
-⏳  Reinforcement Learning —————————————————————————— UPCOMING
-⏳  Cloud AI: AWS SageMaker / GCP Vertex AI ————————— UPCOMING
-```
-
-</div>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/muhammad-javed-24b262369)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Muhammad-Javed2005)
-[![Gmail](https://img.shields.io/badge/Gmail-0a0a1a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:muhammadjaved.dh@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*⭐ Star my repositories if you find them helpful — it keeps me motivated!*
-
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=D%20I%20G%20I%20T%20A%20L%C2%A0%C2%A0%C2%A0P%20R%20E%20S%20E%20N%20C%20E&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=70&section=header&text=D%20I%20G%20I%20T%20A%20L%C2%A0%C2%A0%C2%A0P%20R%20E%20S%20E%20N%20C%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=70&section=header&text=D%20I%20G%20I%20T%20A%20L%C2%A0%C2%A0%C2%A0P%20R%20E%20S%20E%20N%20C%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  </picture>
 </div>
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=cylinder&color=0:0d2b45,100:0a0a1a&height=120&section=footer)
-
+  <br/>
+  <a href="https://www.linkedin.com/in/muhammad-javed-24b262369"><img src="https://img.shields.io/badge/LinkedIn-%23252525.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Muhammad-Javed2005"><img src="https://img.shields.io/badge/GitHub-%23252525.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:muhammadjaved.dh@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23252525.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <br/><br/>
+  <a href="mailto:muhammadjaved.tech5@gmail.com"><img src="https://img.shields.io/badge/Gmail_Tech-%23252525.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Tech"/></a>
+  <a href="https://kaggle.com"><img src="https://img.shields.io/badge/Kaggle-%23252525.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=B0B0B0&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=B0B0B0&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B0B0B0&height=120&section=footer" width="100%" />
+</picture>
