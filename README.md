@@ -17,7 +17,6 @@
 <br/>
 
 <!-- ═══════════════════════  ABOUT ME  ═══════════════════════ -->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=A%20B%20O%20U%20T%C2%A0%C2%A0%C2%A0M%20E&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
@@ -32,7 +31,7 @@
       <td align="left">
         I am a Software Engineering undergraduate at <b>UBIT (University of Karachi)</b> with a deep focus on <b>Artificial Intelligence, Machine Learning, and Data Science</b>.
         <br><br>
-        I enjoy working with data from raw preprocessing and exploration to building and training intelligent models  and I care deeply about <i>why</i> a model learns a certain pattern, not just <i>how</i> to run the code.
+        I enjoy working with data — from raw preprocessing and exploration to building and training intelligent models — and I care deeply about <i>why</i> a model learns a certain pattern, not just <i>how</i> to run the code.
         <br><br>
         I am also enrolled in the <b>Saylani IT Mass Training Program</b>, where I am sharpening my practical AI skills. My key projects include a <b>Brain Tumor Detection system (CNN)</b>, a <b>Fake News Detection pipeline (NLP + ML)</b>, and a <b>Job Market Trend Monitor (Data Science Dashboard)</b>.
         <br><br>
@@ -45,7 +44,6 @@
 <br/>
 
 <!-- ═══════════════════════  TECHNICAL ARSENAL  ═══════════════════════ -->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%C2%A0%C2%A0%C2%A0A%20R%20S%20E%20N%20A%20L&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
@@ -55,25 +53,22 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <samp style="font-size: 14px; color: #888;">L A N G U A G E S</samp>
-</div>
+<div align="center"><samp>L A N G U A G E S</samp></div>
 <br/>
 
 <div align="center">
-  <table align="center" style="border: none;">
+  <table align="center" style="border:none;">
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
         <br>C++
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
         <br>Java
       </td>
     </tr>
@@ -81,41 +76,38 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <samp style="font-size: 14px; color: #888;">D A T A &nbsp; S C I E N C E &nbsp; &amp; &nbsp; V I S U A L I Z A T I O N</samp>
-</div>
+<div align="center"><samp>D A T A &nbsp; S C I E N C E &nbsp; &amp; &nbsp; V I S U A L I Z A T I O N</samp></div>
 <br/>
 
 <div align="center">
-  <table align="center" style="border: none;">
+  <table align="center" style="border:none;">
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
         <br>NumPy
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
         <br>Pandas
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logoColor=white" height="30" alt="Matplotlib" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
         <br>Matplotlib
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Seaborn-4c72b0?style=flat&logoColor=white" height="30" alt="Seaborn" />
+        <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
         <br>Seaborn
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" alt="Power BI" />
+        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" height="48" alt="Power BI"/>
         <br>Power BI
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=excel" width="48" height="48" alt="Excel" />
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/e/excel-4.svg" width="48" height="48" alt="Excel"/>
         <br>Excel
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL"/>
         <br>SQL
       </td>
     </tr>
@@ -123,47 +115,44 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <samp style="font-size: 14px; color: #888;">M A C H I N E &nbsp; L E A R N I N G</samp>
-</div>
+<div align="center"><samp>M A C H I N E &nbsp; L E A R N I N G</samp></div>
 <br/>
 
 <div align="center">
-  <table align="center" style="border: none;">
+  <table align="center" style="border:none;">
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn"/>
         <br>Scikit-Learn
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Linear_Reg-38bdf8?style=flat&logoColor=white" height="30" alt="Linear Regression" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Linear Regression"/>
         <br>Lin. Regression
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Logistic_Reg-38bdf8?style=flat&logoColor=white" height="30" alt="Logistic Regression" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Logistic Regression"/>
         <br>Log. Regression
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-KNN-6366f1?style=flat&logoColor=white" height="30" alt="KNN" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="KNN"/>
         <br>KNN
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-SVM-8b5cf6?style=flat&logoColor=white" height="30" alt="SVM" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="SVM"/>
         <br>SVM
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Random_Forest-34d399?style=flat&logoColor=white" height="30" alt="Random Forest" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Random Forest"/>
         <br>Random Forest
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-XGBoost-f97316?style=flat&logoColor=white" height="30" alt="XGBoost" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="XGBoost"/>
         <br>XGBoost
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-K--Means-fbbf24?style=flat&logoColor=white" height="30" alt="K-Means" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="K-Means"/>
         <br>K-Means
       </td>
     </tr>
@@ -171,45 +160,42 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <samp style="font-size: 14px; color: #888;">D E E P &nbsp; L E A R N I N G</samp>
-</div>
+<div align="center"><samp>D E E P &nbsp; L E A R N I N G</samp></div>
 <br/>
 
 <div align="center">
-  <table align="center" style="border: none;">
+  <table align="center" style="border:none;">
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
         <br>TensorFlow
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=keras" width="48" height="48" alt="Keras" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="48" height="48" alt="Keras"/>
         <br>Keras
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
         <br>PyTorch
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-ANN-f97316?style=flat&logoColor=white" height="30" alt="ANN" />
+        <img src="https://img.shields.io/badge/-ANN-f97316?style=flat-square&logoColor=white" height="28" alt="ANN"/>
         <br>ANN
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-CNN-f97316?style=flat&logoColor=white" height="30" alt="CNN" />
+        <img src="https://img.shields.io/badge/-CNN-f97316?style=flat-square&logoColor=white" height="28" alt="CNN"/>
         <br>CNN
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-RNN-f97316?style=flat&logoColor=white" height="30" alt="RNN" />
+        <img src="https://img.shields.io/badge/-RNN-f97316?style=flat-square&logoColor=white" height="28" alt="RNN"/>
         <br>RNN
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-DNN-f97316?style=flat&logoColor=white" height="30" alt="DNN" />
+        <img src="https://img.shields.io/badge/-DNN-f97316?style=flat-square&logoColor=white" height="28" alt="DNN"/>
         <br>DNN
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-GAN-a78bfa?style=flat&logoColor=white" height="30" alt="GAN" />
+        <img src="https://img.shields.io/badge/-GAN-a78bfa?style=flat-square&logoColor=white" height="28" alt="GAN"/>
         <br>GAN
       </td>
     </tr>
@@ -217,33 +203,30 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <samp style="font-size: 14px; color: #888;">N L P &nbsp; &amp; &nbsp; C O M P U T E R &nbsp; V I S I O N</samp>
-</div>
+<div align="center"><samp>N L P &nbsp; &amp; &nbsp; C O M P U T E R &nbsp; V I S I O N</samp></div>
 <br/>
 
 <div align="center">
-  <table align="center" style="border: none;">
+  <table align="center" style="border:none;">
     <tr>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-NLP-a78bfa?style=flat&logoColor=white" height="30" alt="NLP" />
+        <img src="https://img.shields.io/badge/-NLP-a78bfa?style=flat-square&logoColor=white" height="28" alt="NLP"/>
         <br>NLP
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Text_Cleaning-7c3aed?style=flat&logoColor=white" height="30" alt="Text Cleaning" />
+        <img src="https://img.shields.io/badge/-Text_Cleaning-7c3aed?style=flat-square&logoColor=white" height="28" alt="Text Cleaning"/>
         <br>Text Cleaning
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Vectorization-6d28d9?style=flat&logoColor=white" height="30" alt="Vectorization" />
+        <img src="https://img.shields.io/badge/-Vectorization-6d28d9?style=flat-square&logoColor=white" height="28" alt="Vectorization"/>
         <br>Vectorization
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Text_Class.-5b21b6?style=flat&logoColor=white" height="30" alt="Text Classification" />
+        <img src="https://img.shields.io/badge/-Text_Class.-5b21b6?style=flat-square&logoColor=white" height="28" alt="Text Classification"/>
         <br>Text Class.
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV"/>
         <br>OpenCV
       </td>
     </tr>
@@ -251,20 +234,43 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <samp style="font-size: 14px; color: #888;">T O O L K I T</samp>
-</div>
+<div align="center"><samp>T O O L K I T</samp></div>
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=jupyter,vscode,git,linux,googlecolab,kaggle&theme=dark" />
+  <table align="center" style="border:none;">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
+        <br>Jupyter
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" width="48" height="48" alt="Google Colab"/>
+        <br>Google Colab
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="48" height="48" alt="Kaggle"/>
+        <br>Kaggle
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <!-- ═══════════════════════  TECHNICAL FOCUS  ═══════════════════════ -->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%C2%A0%C2%A0%C2%A0F%20O%20C%20U%20S&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
@@ -275,14 +281,14 @@
 <br/>
 
 <div align="center">
-  <table align="center" style="border: none;">
+  <table align="center" style="border:none;">
     <tr>
       <td width="30">▪️</td>
       <td><b>Deep Learning Research:</b> Building and fine-tuning CNN, RNN, and GAN architectures for real-world problems.</td>
     </tr>
     <tr>
       <td width="30">▪️</td>
-      <td><b>Natural Language Processing:</b> Text preprocessing, vectorization, classification using ML and DL pipelines.</td>
+      <td><b>Natural Language Processing:</b> Text preprocessing, vectorization, and classification using ML and DL pipelines.</td>
     </tr>
     <tr>
       <td width="30">▪️</td>
@@ -298,7 +304,6 @@
 <br/>
 
 <!-- ═══════════════════════  FEATURED PROJECTS  ═══════════════════════ -->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=F%20E%20A%20T%20U%20R%20E%20D%C2%A0%C2%A0%C2%A0P%20R%20O%20J%20E%20C%20T%20S&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
@@ -309,7 +314,7 @@
 <br/>
 
 <div align="center">
-  <table align="center" style="border: none;" width="90%">
+  <table align="center" style="border:none;" width="90%">
     <tr>
       <td width="30">🧠</td>
       <td><b>Brain Tumor Detection:</b> Deep learning CNN model to classify brain MRI scans and detect tumors with high accuracy. — <a href="https://github.com/Muhammad-Javed2005/Brain-Tumor-Detection-CNN">View Repo →</a></td>
@@ -328,7 +333,6 @@
 <br/>
 
 <!-- ═══════════════════════  GLOBAL METRICS  ═══════════════════════ -->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=G%20L%20O%20B%20A%20L%C2%A0%C2%A0%C2%A0M%20E%20T%20R%20I%20C%20S&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
@@ -341,7 +345,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Javed2005&show_icons=true&theme=github_dark&hide_border=true&bg_color=111111&title_color=ffffff&icon_color=aaaaaa&text_color=888888&rank_icon=github&border_radius=0" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Javed2005&theme=github-dark-blue&hide_border=true&background=111111&ring=ffffff&fire=aaaaaa&currStreakLabel=888888&border_radius=0" width="49%"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Javed2005&layout=compact&theme=github_dark&hide_border=true&bg_color=111111&title_color=ffffff&text_color=888888&langs_count=8&border_radius=0" width="49%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Javed2005&theme=github_dark&utcOffset=5" width="49%"/>
@@ -350,7 +353,6 @@
 <br/>
 
 <!-- ═══════════════════════  LEARNING ROADMAP  ═══════════════════════ -->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=L%20E%20A%20R%20N%20I%20N%20G%C2%A0%C2%A0%C2%A0R%20O%20A%20D%20M%20A%20P&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
@@ -361,7 +363,7 @@
 <br/>
 
 <div align="center">
-  <table align="center" style="border: none;">
+  <table align="center" style="border:none;">
     <tr><td width="30">✅</td><td>Machine Learning Fundamentals</td></tr>
     <tr><td width="30">✅</td><td>Deep Learning — ANN, CNN, RNN, DNN, GAN</td></tr>
     <tr><td width="30">✅</td><td>Natural Language Processing Basics</td></tr>
@@ -377,7 +379,6 @@
 <br/>
 
 <!-- ═══════════════════════  DIGITAL PRESENCE  ═══════════════════════ -->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=D%20I%20G%20I%20T%20A%20L%C2%A0%C2%A0%C2%A0P%20R%20E%20S%20E%20N%20C%20E&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
@@ -399,7 +400,5 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=B0B0B0&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=B0B0B0&height=120&section=footer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B0B0B0&height=120&section=footer" width="100%" />
 </picture>
