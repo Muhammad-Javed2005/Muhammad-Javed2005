@@ -34,7 +34,7 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
 
 &nbsp;
 
-###  Education
+### 🎓 Education
 
 - **UBIT — University of Karachi**
   Software Engineering Undergraduate
@@ -44,7 +44,7 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
 
 &nbsp;
 
-###  Projects
+### 🔬 Projects
 
 - **Brain Tumor Detection** — Deep learning CNN model to classify brain MRI scans and detect tumors with high accuracy
 - **Fake News Detection** — NLP-powered pipeline classifying fake vs real news using text analysis and ML models
@@ -52,20 +52,20 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
 
 &nbsp;
 
-###  Currently Working On
+### 🚀 Currently Working On
 
 - Exploring **Large Language Models**, **Prompt Engineering**, and **Retrieval-Augmented Generation (RAG)**
 - Working toward deploying end-to-end **Generative AI pipelines** in production
 
 &nbsp;
 
-###  Focus Area
+### 💡 Focus Area
 
 - **Generative AI** — LLMs · RAG · Prompt Engineering · Agentic Systems
 
 &nbsp;
 
-###  Location
+### 📍 Location
 
 - Karachi, Pakistan
 
@@ -82,6 +82,7 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
   </picture>
 </div>
 
+
 <br/>
 <div align="center"><samp>L A N G U A G E S</samp></div>
 <br/>
@@ -89,56 +90,67 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
 <div align="center">
   <table align="center" style="border:none;">
     <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-        <br>Python
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+        <br><sub>Python</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
-        <br>C++
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+        <br><sub>C++</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
-        <br>Java
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+        <br><sub>Java</sub>
       </td>
     </tr>
   </table>
 </div>
 
 <br/>
-<div align="center"><samp>D A T A &nbsp; S C I E N C E &nbsp; &amp; &nbsp; V I S U A L I Z A T I O N</samp></div>
+<div align="center"><samp>L I B R A R I E S</samp></div>
 <br/>
 
 <div align="center">
   <table align="center" style="border:none;">
     <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-        <br>NumPy
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+        <br><sub>NumPy</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-        <br>Pandas
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+        <br><sub>Pandas</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
-        <br>Matplotlib
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
+        <br><sub>Matplotlib</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
-        <br>Seaborn
+      <td align="center" width="70">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
+        <br><sub>Seaborn</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" height="48" alt="Power BI"/>
-        <br>Power BI
+    </tr>
+  </table>
+</div>
+
+<br/>
+<div align="center"><samp>T O O L S</samp></div>
+<br/>
+
+<div align="center">
+  <table align="center" style="border:none;">
+    <tr>
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40" alt="Power BI"/>
+        <br><sub>Power BI</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/e/excel-4.svg" width="48" height="48" alt="Excel"/>
-        <br>Excel
+      <td align="center" width="70">
+        <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="28" alt="Excel"/>
+        <br><sub>Excel</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL"/>
-        <br>SQL
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+        <br><sub>SQL</sub>
       </td>
     </tr>
   </table>
@@ -151,39 +163,21 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
 <div align="center">
   <table align="center" style="border:none;">
     <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn"/>
-        <br>Scikit-Learn
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-Learn"/>
+        <br><sub>Scikit-Learn</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Linear Regression"/>
-        <br>Lin. Regression
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
+        <br><sub>TensorFlow</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Logistic Regression"/>
-        <br>Log. Regression
+      <td align="center" width="70">
+        <img src="https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logoColor=white" height="28" alt="XGBoost"/>
+        <br><sub>XGBoost</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="KNN"/>
-        <br>KNN
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="SVM"/>
-        <br>SVM
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Random Forest"/>
-        <br>Random Forest
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="XGBoost"/>
-        <br>XGBoost
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="K-Means"/>
-        <br>K-Means
+      <td align="center" width="70">
+        <img src="https://img.shields.io/badge/-Random Forest-38761D?style=flat-square&logoColor=white" height="28" alt="Random Forest"/>
+        <br><sub>Random Forest</sub>
       </td>
     </tr>
   </table>
@@ -196,68 +190,44 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
 <div align="center">
   <table align="center" style="border:none;">
     <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
-        <br>TensorFlow
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
+        <br><sub>PyTorch</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="48" height="48" alt="Keras"/>
-        <br>Keras
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40" height="40" alt="Keras"/>
+        <br><sub>Keras</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
-        <br>PyTorch
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-ANN-f97316?style=flat-square&logoColor=white" height="28" alt="ANN"/>
-        <br>ANN
-      </td>
-      <td align="center" width="96">
+      <td align="center" width="70">
         <img src="https://img.shields.io/badge/-CNN-f97316?style=flat-square&logoColor=white" height="28" alt="CNN"/>
-        <br>CNN
+        <br><sub>CNN</sub>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="70">
         <img src="https://img.shields.io/badge/-RNN-f97316?style=flat-square&logoColor=white" height="28" alt="RNN"/>
-        <br>RNN
+        <br><sub>RNN</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-DNN-f97316?style=flat-square&logoColor=white" height="28" alt="DNN"/>
-        <br>DNN
+      <td align="center" width="70">
+        <img src="https://img.shields.io/badge/-LSTM-a78bfa?style=flat-square&logoColor=white" height="28" alt="LSTM"/>
+        <br><sub>LSTM</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-GAN-a78bfa?style=flat-square&logoColor=white" height="28" alt="GAN"/>
-        <br>GAN
+      <td align="center" width="70">
+        <img src="https://img.shields.io/badge/-GAN-6d28d9?style=flat-square&logoColor=white" height="28" alt="GAN"/>
+        <br><sub>GAN</sub>
       </td>
     </tr>
   </table>
 </div>
 
 <br/>
-<div align="center"><samp>N L P &nbsp; &amp; &nbsp; C O M P U T E R &nbsp; V I S I O N</samp></div>
+<div align="center"><samp>C O M P U T E R &nbsp; V I S I O N</samp></div>
 <br/>
 
 <div align="center">
   <table align="center" style="border:none;">
     <tr>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-NLP-a78bfa?style=flat-square&logoColor=white" height="28" alt="NLP"/>
-        <br>NLP
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Text_Cleaning-7c3aed?style=flat-square&logoColor=white" height="28" alt="Text Cleaning"/>
-        <br>Text Cleaning
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Vectorization-6d28d9?style=flat-square&logoColor=white" height="28" alt="Vectorization"/>
-        <br>Vectorization
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/-Text_Class.-5b21b6?style=flat-square&logoColor=white" height="28" alt="Text Classification"/>
-        <br>Text Class.
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV"/>
-        <br>OpenCV
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/>
+        <br><sub>OpenCV</sub>
       </td>
     </tr>
   </table>
@@ -270,29 +240,29 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
 <div align="center">
   <table align="center" style="border:none;">
     <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
-        <br>Jupyter
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
+        <br><sub>Jupyter</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
-        <br>VS Code
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+        <br><sub>VS Code</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-        <br>Git
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" width="40" height="40" alt="Google Colab"/>
+        <br><sub>Colab</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
-        <br>Linux
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+        <br><sub>Git</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" width="48" height="48" alt="Google Colab"/>
-        <br>Google Colab
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle"/>
+        <br><sub>Kaggle</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="48" height="48" alt="Kaggle"/>
-        <br>Kaggle
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+        <br><sub>Linux</sub>
       </td>
     </tr>
   </table>
