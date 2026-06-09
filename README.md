@@ -145,7 +145,7 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
         <br><sub>Power BI</sub>
       </td>
       <td align="center" width="70">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/e/excel.svg" width="40" height="40" alt="Excel"/>
+        <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" width="40" height="40" alt="Excel"/>
         <br><sub>Excel</sub>
       </td>
       <td align="center" width="70">
