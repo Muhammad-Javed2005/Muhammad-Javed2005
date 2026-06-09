@@ -30,18 +30,45 @@
 </div>
 
 <div align="center">
-  <table width="90%">
+  <table width="90%" cellpadding="10">
+
     <tr>
+      <td width="140" align="left" valign="top"><samp>🎓 &nbsp; E D U C A T I O N</samp></td>
       <td align="left">
-        I am a Software Engineering undergraduate at <b>UBIT (University of Karachi)</b> with a deep focus on <b>Artificial Intelligence, Machine Learning, and Data Science</b>.
-        <br><br>
-        I enjoy working with data — from raw preprocessing and exploration to building and training intelligent models — and I care deeply about <i>why</i> a model learns a certain pattern, not just <i>how</i> to run the code.
-        <br><br>
-        I am also enrolled in the <b>Saylani IT Mass Training Program</b>, where I am sharpening my practical AI skills. My key projects include a <b>Brain Tumor Detection system (CNN)</b>, a <b>Fake News Detection pipeline (NLP + ML)</b>, and a <b>Job Market Trend Monitor (Data Science Dashboard)</b>.
-        <br><br>
-        Currently exploring <b>Large Language Models</b> and working toward deploying end-to-end ML pipelines.
+        Software Engineering undergraduate at <b>UBIT — University of Karachi</b><br/>
+        Also enrolled in <b>Saylani IT Mass Training Program</b> for practical AI skill development.
       </td>
     </tr>
+
+    <tr>
+      <td align="left" valign="top"><samp>🧠 &nbsp; F O C U S</samp></td>
+      <td align="left">
+        Deep focus on <b>Artificial Intelligence, Machine Learning, and Data Science</b>.<br/>
+        I care deeply about <i>why</i> a model learns a certain pattern — not just <i>how</i> to run the code.
+      </td>
+    </tr>
+
+    <tr>
+      <td align="left" valign="top"><samp>🔬 &nbsp; P R O J E C T S</samp></td>
+      <td align="left">
+        <b>Brain Tumor Detection</b> — CNN-based MRI classification system<br/>
+        <b>Fake News Detection</b> — NLP + ML pipeline for real vs fake news<br/>
+        <b>Job Market Trend Monitor</b> — Data Science dashboard for skill trends
+      </td>
+    </tr>
+
+    <tr>
+      <td align="left" valign="top"><samp>🚀 &nbsp; C U R R E N T L Y</samp></td>
+      <td align="left">
+        Exploring <b>Large Language Models</b> and working toward deploying <b>end-to-end ML pipelines</b> in production.
+      </td>
+    </tr>
+
+    <tr>
+      <td align="left" valign="top"><samp>📍 &nbsp; L O C A T I O N</samp></td>
+      <td align="left">Karachi, Pakistan</td>
+    </tr>
+
   </table>
 </div>
 
