@@ -125,10 +125,6 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
         <br><sub>Matplotlib</sub>
       </td>
-      <td align="center" width="70">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
-        <br><sub>Seaborn</sub>
-      </td>
     </tr>
   </table>
 </div>
@@ -143,10 +139,6 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
       <td align="center" width="70">
         <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40" alt="Power BI"/>
         <br><sub>Power BI</sub>
-      </td>
-      <td align="center" width="70">
-        <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="28" alt="Excel"/>
-        <br><sub>Excel</sub>
       </td>
       <td align="center" width="70">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
@@ -171,14 +163,6 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
         <br><sub>TensorFlow</sub>
       </td>
-      <td align="center" width="70">
-        <img src="https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logoColor=white" height="28" alt="XGBoost"/>
-        <br><sub>XGBoost</sub>
-      </td>
-      <td align="center" width="70">
-        <img src="https://img.shields.io/badge/-Random Forest-38761D?style=flat-square&logoColor=white" height="28" alt="Random Forest"/>
-        <br><sub>Random Forest</sub>
-      </td>
     </tr>
   </table>
 </div>
@@ -197,22 +181,6 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
       <td align="center" width="70">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40" height="40" alt="Keras"/>
         <br><sub>Keras</sub>
-      </td>
-      <td align="center" width="70">
-        <img src="https://img.shields.io/badge/-CNN-f97316?style=flat-square&logoColor=white" height="28" alt="CNN"/>
-        <br><sub>CNN</sub>
-      </td>
-      <td align="center" width="70">
-        <img src="https://img.shields.io/badge/-RNN-f97316?style=flat-square&logoColor=white" height="28" alt="RNN"/>
-        <br><sub>RNN</sub>
-      </td>
-      <td align="center" width="70">
-        <img src="https://img.shields.io/badge/-LSTM-a78bfa?style=flat-square&logoColor=white" height="28" alt="LSTM"/>
-        <br><sub>LSTM</sub>
-      </td>
-      <td align="center" width="70">
-        <img src="https://img.shields.io/badge/-GAN-6d28d9?style=flat-square&logoColor=white" height="28" alt="GAN"/>
-        <br><sub>GAN</sub>
       </td>
     </tr>
   </table>
