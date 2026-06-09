@@ -34,7 +34,7 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
 
 &nbsp;
 
-### 🎓 Education
+###  Education
 
 - **UBIT — University of Karachi**
   Software Engineering Undergraduate
@@ -44,7 +44,7 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
 
 &nbsp;
 
-### 🔬 Projects
+###  Projects
 
 - **Brain Tumor Detection** — Deep learning CNN model to classify brain MRI scans and detect tumors with high accuracy
 - **Fake News Detection** — NLP-powered pipeline classifying fake vs real news using text analysis and ML models
@@ -52,20 +52,20 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
 
 &nbsp;
 
-### 🚀 Currently Working On
+###  Currently Working On
 
 - Exploring **Large Language Models**, **Prompt Engineering**, and **Retrieval-Augmented Generation (RAG)**
 - Working toward deploying end-to-end **Generative AI pipelines** in production
 
 &nbsp;
 
-### 💡 Focus Area
+###  Focus Area
 
 - **Generative AI** — LLMs · RAG · Prompt Engineering · Agentic Systems
 
 &nbsp;
 
-### 📍 Location
+###  Location
 
 - Karachi, Pakistan
 
