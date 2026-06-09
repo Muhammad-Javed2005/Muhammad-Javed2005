@@ -30,11 +30,11 @@
 </div>
 
 
-I am a Software Engineering undergraduate with a deep focus on **Artificial Intelligence, Machine Learning, and Generative AI**. I care deeply about *why* a model learns a certain pattern — not just *how* to run the code.
+A **Software Engineering** undergraduate with a focused pursuit of **Artificial Intelligence**, **Machine Learning**, and **Generative AI** — driven not merely by the mechanics of running models, but by a disciplined curiosity to understand *why* a model learns what it learns, and how that understanding can be engineered into systems that are purposeful, reliable, and impactful.
 
 &nbsp;
 
-###  Education
+### 🎓 Education
 
 - **UBIT — University of Karachi**
   Software Engineering Undergraduate
@@ -44,7 +44,7 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
 
 &nbsp;
 
-###  Projects
+### 🔬 Projects
 
 - **Brain Tumor Detection** — Deep learning CNN model to classify brain MRI scans and detect tumors with high accuracy
 - **Fake News Detection** — NLP-powered pipeline classifying fake vs real news using text analysis and ML models
@@ -52,20 +52,20 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
 
 &nbsp;
 
-###  Currently Working On
+### 🚀 Currently Working On
 
 - Exploring **Large Language Models**, **Prompt Engineering**, and **Retrieval-Augmented Generation (RAG)**
 - Working toward deploying end-to-end **Generative AI pipelines** in production
 
 &nbsp;
 
-###  Focus Area
+### 💡 Focus Area
 
 - **Generative AI** — LLMs · RAG · Prompt Engineering · Agentic Systems
 
 &nbsp;
 
-###  Location
+### 📍 Location
 
 - Karachi, Pakistan
 
@@ -260,6 +260,10 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
   <table align="center" style="border:none;">
     <tr>
       <td width="30">▪️</td>
+      <td><b>Generative AI:</b> Exploring Large Language Models, Prompt Engineering, and Retrieval-Augmented Generation.</td>
+    </tr>
+    <tr>
+      <td width="30">▪️</td>
       <td><b>Deep Learning Research:</b> Building and fine-tuning CNN, RNN, and GAN architectures for real-world problems.</td>
     </tr>
     <tr>
@@ -269,10 +273,6 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
     <tr>
       <td width="30">▪️</td>
       <td><b>Data Engineering:</b> Advanced data analysis with Pandas, NumPy, and visualization with Power BI and Matplotlib.</td>
-    </tr>
-    <tr>
-      <td width="30">▪️</td>
-      <td><b>Generative AI:</b> Exploring Large Language Models, Prompt Engineering, and Retrieval-Augmented Generation.</td>
     </tr>
   </table>
 </div>
@@ -318,12 +318,7 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Javed2005&show_icons=true&theme=github_dark&hide_border=true&bg_color=111111&title_color=ffffff&icon_color=aaaaaa&text_color=888888&rank_icon=github&border_radius=0" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Javed2005&theme=github-dark-blue&hide_border=true&background=111111&ring=ffffff&fire=aaaaaa&currStreakLabel=888888&border_radius=0" width="49%"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Javed2005&layout=compact&theme=github_dark&hide_border=true&bg_color=111111&title_color=ffffff&text_color=888888&langs_count=8&border_radius=0" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Javed2005&theme=github_dark&utcOffset=5" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Javed2005&show_icons=true&theme=github_dark&hide_border=true&bg_color=111111&title_color=ffffff&icon_color=aaaaaa&text_color=888888&count_private=true&border_radius=0&hide=stars,forks,issues,prs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Total+Contributions" width="60%"/>
 </div>
 
 <br/>
