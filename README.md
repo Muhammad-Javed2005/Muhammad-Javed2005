@@ -30,27 +30,27 @@
 </div>
 
 <div align="center">
-  <table width="90%" cellpadding="10">
+  <table width="90%" cellpadding="8">
 
     <tr>
-      <td width="140" align="left" valign="top"><samp>🎓 &nbsp; E D U C A T I O N</samp></td>
-      <td align="left">
+      <td width="160" valign="top"><b>Education</b></td>
+      <td>
         Software Engineering undergraduate at <b>UBIT — University of Karachi</b><br/>
         Also enrolled in <b>Saylani IT Mass Training Program</b> for practical AI skill development.
       </td>
     </tr>
 
     <tr>
-      <td align="left" valign="top"><samp>🧠 &nbsp; F O C U S</samp></td>
-      <td align="left">
-        Deep focus on <b>Artificial Intelligence, Machine Learning, and Data Science</b>.<br/>
+      <td valign="top"><b>Focus</b></td>
+      <td>
+        Deep focus on <b>Artificial Intelligence, Machine Learning, and Data Science</b>.
         I care deeply about <i>why</i> a model learns a certain pattern — not just <i>how</i> to run the code.
       </td>
     </tr>
 
     <tr>
-      <td align="left" valign="top"><samp>🔬 &nbsp; P R O J E C T S</samp></td>
-      <td align="left">
+      <td valign="top"><b>Projects</b></td>
+      <td>
         <b>Brain Tumor Detection</b> — CNN-based MRI classification system<br/>
         <b>Fake News Detection</b> — NLP + ML pipeline for real vs fake news<br/>
         <b>Job Market Trend Monitor</b> — Data Science dashboard for skill trends
@@ -58,15 +58,15 @@
     </tr>
 
     <tr>
-      <td align="left" valign="top"><samp>🚀 &nbsp; C U R R E N T L Y</samp></td>
-      <td align="left">
+      <td valign="top"><b>Currently</b></td>
+      <td>
         Exploring <b>Large Language Models</b> and working toward deploying <b>end-to-end ML pipelines</b> in production.
       </td>
     </tr>
 
     <tr>
-      <td align="left" valign="top"><samp>📍 &nbsp; L O C A T I O N</samp></td>
-      <td align="left">Karachi, Pakistan</td>
+      <td valign="top"><b>Location</b></td>
+      <td>Karachi, Pakistan</td>
     </tr>
 
   </table>
