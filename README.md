@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Muhammad Javed Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=100&section=header&text=M%20U%20H%20A%20M%20M%20A%20D%C2%A0%C2%A0%C2%A0J%20A%20V%20E%20D&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=100&section=header&text=M%20U%20H%20A%20M%20M%20A%20D%C2%A0%C2%A0%C2%A0J%20A%20V%20E%20D&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=100&section=header&text=M%20U%20H%20A%20M%20M%20A%20D%C2%A0%C2%A0%C2%A0J%20A%20V%20E%20D&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  </picture>
 </div>
 
 <br/>
