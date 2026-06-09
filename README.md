@@ -290,19 +290,78 @@ A **Software Engineering** undergraduate with a focused pursuit of **Artificial 
 <br/>
 
 <div align="center">
-  <table align="center" style="border:none;" width="90%">
-    <tr>
-      <td width="30">🧠</td>
-      <td><b>Brain Tumor Detection:</b> Deep learning CNN model to classify brain MRI scans and detect tumors with high accuracy. — <a href="https://github.com/Muhammad-Javed2005/Brain-Tumor-Detection-CNN">View Repo →</a></td>
-    </tr>
-    <tr>
-      <td width="30">📰</td>
-      <td><b>Fake News Detection:</b> NLP-powered pipeline classifying fake vs real news using text analysis and ML models. — <a href="https://github.com/Muhammad-Javed2005/FakeNews-Detection-ML">View Repo →</a></td>
-    </tr>
-    <tr>
-      <td width="30">📊</td>
-      <td><b>Job Market Trend Monitor:</b> Real-time dashboard analyzing in-demand skills and evolving job market trends. — <a href="https://github.com/Muhammad-Javed2005/JobMarket-TrendMonitor">View Repo →</a></td>
-    </tr>
+  <table align="center" style="border-collapse:separate; border-spacing:0; width:90%;">
+
+  <tr>
+    <td align="left" style="padding:18px 24px; background:#161b22; border:1px solid #30363d; border-radius:8px;">
+      <div>
+        <samp>📁 &nbsp; <b><a href="https://github.com/Muhammad-Javed2005/Brain-Tumor-Detection-CNN" style="text-decoration:none;">Brain-Tumor-Detection-CNN</a></b></samp>
+      </div>
+      <br/>
+      <div>
+        Deep learning CNN model to classify brain MRI scans and detect tumors with high accuracy. Trained on labeled medical imaging datasets using TensorFlow and Keras.
+      </div>
+      <br/>
+      <div>
+        <img src="https://img.shields.io/badge/Python-%23111111.svg?style=flat-square&logo=python&logoColor=white"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/TensorFlow-%23111111.svg?style=flat-square&logo=tensorflow&logoColor=white"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Keras-%23111111.svg?style=flat-square&logo=keras&logoColor=white"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Domain-Computer%20Vision-%23111111?style=flat-square"/>
+      </div>
+    </td>
+  </tr>
+
+  <tr><td style="padding:6px 0; border:none; background:transparent;"></td></tr>
+
+  <tr>
+    <td align="left" style="padding:18px 24px; background:#161b22; border:1px solid #30363d; border-radius:8px;">
+      <div>
+        <samp>📁 &nbsp; <b><a href="https://github.com/Muhammad-Javed2005/FakeNews-Detection-ML" style="text-decoration:none;">FakeNews-Detection-ML</a></b></samp>
+      </div>
+      <br/>
+      <div>
+        NLP-powered pipeline to classify fake vs real news using text preprocessing, TF-IDF vectorization, and supervised ML models with strong classification performance.
+      </div>
+      <br/>
+      <div>
+        <img src="https://img.shields.io/badge/Python-%23111111.svg?style=flat-square&logo=python&logoColor=white"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Scikit--Learn-%23111111.svg?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/NLTK-%23111111.svg?style=flat-square&logo=python&logoColor=white"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Domain-NLP-%23111111?style=flat-square"/>
+      </div>
+    </td>
+  </tr>
+
+  <tr><td style="padding:6px 0; border:none; background:transparent;"></td></tr>
+
+  <tr>
+    <td align="left" style="padding:18px 24px; background:#161b22; border:1px solid #30363d; border-radius:8px;">
+      <div>
+        <samp>📁 &nbsp; <b><a href="https://github.com/Muhammad-Javed2005/JobMarket-TrendMonitor" style="text-decoration:none;">JobMarket-TrendMonitor</a></b></samp>
+      </div>
+      <br/>
+      <div>
+        Real-time dashboard for analyzing in-demand skills and evolving job market trends. Aggregates and visualizes data to surface actionable insights for career planning.
+      </div>
+      <br/>
+      <div>
+        <img src="https://img.shields.io/badge/Python-%23111111.svg?style=flat-square&logo=python&logoColor=white"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Pandas-%23111111.svg?style=flat-square&logo=pandas&logoColor=white"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Power%20BI-%23111111.svg?style=flat-square&logo=powerbi&logoColor=white"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Domain-Data%20Analytics-%23111111?style=flat-square"/>
+      </div>
+    </td>
+  </tr>
+
   </table>
 </div>
 
@@ -318,7 +377,7 @@ A **Software Engineering** undergraduate with a focused pursuit of **Artificial 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Javed2005&show_icons=true&theme=github_dark&hide_border=true&bg_color=111111&title_color=ffffff&icon_color=aaaaaa&text_color=888888&count_private=true&border_radius=0&hide=stars,forks,issues,prs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Total+Contributions" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Javed2005&show_icons=true&theme=github_dark&hide_border=true&bg_color=111111&title_color=ffffff&icon_color=aaaaaa&text_color=888888&count_private=true&border_radius=0&include_all_commits=true&custom_title=Total%20Contributions" width="60%"/>
 </div>
 
 <br/>
