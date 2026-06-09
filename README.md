@@ -32,47 +32,42 @@
 
 I am a Software Engineering undergraduate with a deep focus on **Artificial Intelligence, Machine Learning, and Generative AI**. I care deeply about *why* a model learns a certain pattern — not just *how* to run the code.
 
----
+&nbsp;
 
-### Education
+### 🎓 Education
 
-**UBIT — University of Karachi**
-Software Engineering Undergraduate
+- **UBIT — University of Karachi**
+  Software Engineering Undergraduate
 
-**SMIT — Saylani Mass IT Training**
-Practical AI & Machine Learning Training Program
+- **SMIT — Saylani Mass IT Training**
+  Practical AI & Machine Learning Training Program
 
----
+&nbsp;
 
-### Projects
+### 🔬 Projects
 
-**Brain Tumor Detection**
-Deep learning CNN model to classify brain MRI scans and detect tumors with high accuracy.
+- **Brain Tumor Detection** — Deep learning CNN model to classify brain MRI scans and detect tumors with high accuracy
+- **Fake News Detection** — NLP-powered pipeline classifying fake vs real news using text analysis and ML models
+- **Job Market Trend Monitor** — Real-time dashboard analyzing in-demand skills and evolving job market trends
 
-**Fake News Detection**
-NLP-powered pipeline classifying fake vs real news using text analysis and ML models.
+&nbsp;
 
-**Job Market Trend Monitor**
-Real-time dashboard analyzing in-demand skills and evolving job market trends.
+### 🚀 Currently Working On
 
----
+- Exploring **Large Language Models**, **Prompt Engineering**, and **Retrieval-Augmented Generation (RAG)**
+- Working toward deploying end-to-end **Generative AI pipelines** in production
 
-### Currently Working On
+&nbsp;
 
-Exploring **Large Language Models**, **Prompt Engineering**, and **Retrieval-Augmented Generation (RAG)**.
-Working toward deploying end-to-end **Generative AI pipelines** in production.
+### 💡 Focus Area
 
----
+- **Generative AI** — LLMs · RAG · Prompt Engineering · Agentic Systems
 
-### Focus Area
+&nbsp;
 
-**Generative AI** — LLMs · RAG · Prompt Engineering · Agentic Systems
+### 📍 Location
 
----
-
-### Location
-
-Karachi, Pakistan
+- Karachi, Pakistan
 
 
 
