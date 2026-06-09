@@ -125,6 +125,10 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
         <br><sub>Matplotlib</sub>
       </td>
+      <td align="center" width="70">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/seaborn-icon.svg" width="40" height="40" alt="Seaborn"/>
+        <br><sub>Seaborn</sub>
+      </td>
     </tr>
   </table>
 </div>
@@ -139,6 +143,10 @@ I am a Software Engineering undergraduate with a deep focus on **Artificial Inte
       <td align="center" width="70">
         <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40" alt="Power BI"/>
         <br><sub>Power BI</sub>
+      </td>
+      <td align="center" width="70">
+        <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="28" alt="Excel"/>
+        <br><sub>Excel</sub>
       </td>
       <td align="center" width="70">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
